@@ -28,6 +28,9 @@ Steps:
 - Open the app in a browser
 - Click on AUthenticate to authenticate
 - Ask questions
+- Plot results
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1725045293066/3222bb5d-6025-4c07-b09a-986934ca55fc.gif?auto=format,compress&gif-q=60&format=webm)  
 
 Video : https://youtu.be/QE1N30iw1vM?si=RyBJZ6L8pYCQOOoW
 
