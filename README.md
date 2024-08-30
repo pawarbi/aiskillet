@@ -1,6 +1,9 @@
 # AI Skillet 
 ## Sandeep Pawar | 08-30-2024
 ### version 0.2
+### Blog : https://fabric.guru/ai-skillet-local-fabric-ai-skills-app
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1725043141028/5d495717-aaa4-43ee-b3f2-5dc056537e2e.png?auto=compress,format&format=webp)
 ### Requirements:
 
 - Gradio
