@@ -35,3 +35,5 @@ Steps:
 Video : https://youtu.be/QE1N30iw1vM?si=RyBJZ6L8pYCQOOoW
 
 Blog : https://fabric.guru/tag/aiskills?source=tags_bottom_blogs
+
+Feel free to ask questions, suggest ideas in Discussions : https://github.com/pawarbi/aiskillet/discussions
