@@ -3,6 +3,9 @@
 ### version 0.2
 ### Blog : https://fabric.guru/ai-skillet-local-fabric-ai-skills-app
 
+#### 🔴🔴NOTE: Microsoft has changed the endpoint and now cannot be queried from outside : https://learn.microsoft.com/en-us/fabric/data-science/ai-skill-scenario#use-the-ai-skill-programmatically
+
+
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1725043141028/5d495717-aaa4-43ee-b3f2-5dc056537e2e.png?auto=compress,format&format=webp)
 ### Requirements:
 
